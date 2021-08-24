@@ -15,6 +15,14 @@ var questions =[ {
   {
   question: "Which is my favorite sad song? ",
   answer: "Channa Meraya"
+  },
+  {
+  question: "What is my favorite TV show? ",
+  answer: "Breaking Bad"
+  },
+  {
+  question: "What does my name mean? ",
+  answer: "Horizon"
   }
 ];
 
